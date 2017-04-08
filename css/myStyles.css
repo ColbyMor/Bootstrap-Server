@@ -1,0 +1,45 @@
+html{
+	font-size-adjust: none;
+	font-size:50;
+}
+
+body{
+	background:url("../images/space1.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+	margin: 0;
+	font-size-adjust: auto;
+	font-size:20px;
+	color:#FFFFFF;
+}
+a{
+	font-size: 100;
+	color:#FFFFFF;
+	text-align:center;
+	
+}
+
+.navbar-nav{
+	font-family: 'Raleway', sans-serif;
+	font-size: 100;
+	font-weight: 1000;
+}
+
+  .navbar-default, .navbar-collapse {
+  font-family: 'Raleway', sans-serif;
+	  font-size: 100px;
+	  color: #FFFFFF;
+
+}
+.myText{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font:bold;
+	font-size: 25px;
+
+	
+}
+
